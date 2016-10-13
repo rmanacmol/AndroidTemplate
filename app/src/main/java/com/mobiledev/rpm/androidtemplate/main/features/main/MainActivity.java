@@ -20,7 +20,8 @@ import javax.inject.Inject;
 
 public class MainActivity extends AppCompatActivity implements MainContract.View {
 
-    @Inject MainPresenter mainPresenter;
+    @Inject
+    MainPresenter mainPresenter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
