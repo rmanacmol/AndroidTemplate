@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--LOCAL - GENYMOTION -->
+    <!-- <string name="base_service_url">http://10.0.3.2</string>-->
+    <!-- <string name="base_api_port">3000</string>-->
+
+    <!--STAGING -->
+    <string name="base_service_url">https://jsonplaceholder.typicode.com</string>
+    <string name="base_api_port">81</string>
+
+</resources>
